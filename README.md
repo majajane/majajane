@@ -1,8 +1,12 @@
 # Maja Jane
 
-Hi~ This is Maja, a BSMCS student!
+💌 Hi~ This is Maja, a BSMCS student! Looking forward to learning more and improving my coding skills.
 
-💌 💌 💌 💌 💌 
-> Looking forward to learning more and improving my coding skills.
-> With basic to intermediate experience in C, C++, Java, and Python
-> Open to new learning experiences and challenges
+> Progress over perfection.
+
+ - With basic to intermediate experience 
+  - C
+  - C++
+  - Java
+  - Python
+ - Open to new learning experiences and challenges
